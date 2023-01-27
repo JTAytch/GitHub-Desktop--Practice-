@@ -1,2 +1,1 @@
-# GitHub Desktop (Practice)
- GitHub Desktop (Practice)
+# Sakilas Core
